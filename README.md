@@ -12,7 +12,7 @@ This project involves performing Exploratory Data Analysis (EDA) on a world popu
 
 ## Project Details
 - **Objective:** To perform an exploratory analysis of world population data, understand the distribution of population across different countries, and identify trends, correlations, and outliers.
-- **Data Source:** [ "https://github.com/AlexTheAnalyst/PandasYouTubeSeries/tree/main"]
+- **Data Source:** [ "https://github.com/AlexTheAnalyst/PandasYouTubeSeries/blob/main/world_population.csv"]
 - **Key Features:** Country, Capital, Population, Year, Population Density, Growth Rate, and more.
 
 ## Implementation
