@@ -12,7 +12,7 @@ This project involves performing Exploratory Data Analysis (EDA) on a world popu
 
 ## Project Details
 - **Objective:** To perform an exploratory analysis of world population data, understand the distribution of population across different countries, and identify trends, correlations, and outliers.
-- **Data Source:** [Insert data source here, e.g., "World Population Dataset from [Kaggle/World Bank/etc.]"]
+- **Data Source:** [ "world_population.csv]"]
 - **Key Features:** Country, Capital, Population, Year, Population Density, Growth Rate, and more.
 
 ## Implementation
@@ -45,13 +45,13 @@ This project involves performing Exploratory Data Analysis (EDA) on a world popu
 - Created visualizations to clearly depict population distribution, growth trends, and density variations.
 
 ## Repository
-- [GitHub Repository](https://github.com/a-wahid123/world-population-eda)
+- [GitHub Repository](https://github.com/a-wahid123/Exploratory-Data-Analysis-on-World-Population-Dataset)
 
 ## Usage
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/a-wahid123/world-population-eda.git
+   git clone https://github.com/a-wahid123/Exploratory-Data-Analysis-on-World-Population-Dataset.git
    ```
 
 2. Install the required libraries:
